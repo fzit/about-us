@@ -4,4 +4,6 @@
 
 公司网址：www.liruan.cn  
 公司全称：福州力软信息科技有限公司  
-英文名称：Fuzhou Liruan Information Technology Co.,Ltd
+公司简称：力软科技  
+英文全称：Fuzhou Liruan Information Technology Co.,Ltd  
+英文简称：Liruan Tech
