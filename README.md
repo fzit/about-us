@@ -7,3 +7,4 @@
 公司简称：力软科技  
 英文全称：Fuzhou Liruan Information Technology Co.,Ltd  
 英文简称：Liruan Technology
+统一社会信用代码：91350111MA344L1U76
